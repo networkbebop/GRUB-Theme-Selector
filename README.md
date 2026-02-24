@@ -20,7 +20,7 @@ Simply enter following commands in your terminal :
 
 ```bash
 $ git clone https://github.com/networkbebop/GRUB-Theme-Selector.git
-$ cd grub-theme-selector
+$ cd GRUB-Theme-Selector
 $ sudo ./install.sh
 ```
 
