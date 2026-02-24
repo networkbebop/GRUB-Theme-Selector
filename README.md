@@ -4,7 +4,7 @@
 ![Bash CI](https://github.com/ChrisTitusTech/Top-5-Bootloader-Themes/workflows/bash_unit%20CI/badge.svg)
 ![Shellcheck CI](https://github.com/ChrisTitusTech/Top-5-Bootloader-Themes/workflows/Shellcheck%20CI/badge.svg)
 
-ChrisTitusTech Top 5 Bootloader Themes
+GRUB Theme Selector
 ======================================
 
 Install Bootloader Themes with ease.
