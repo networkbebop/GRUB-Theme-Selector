@@ -19,8 +19,8 @@ Install Bootloader Themes with ease.
 Simply enter following commands in your terminal :
 
 ```bash
-$ git clone https://github.com/ChrisTitusTech/Top-5-Bootloader-Themes
-$ cd Top-5-Bootloader-Themes
+$ git clone https://github.com/networkbebop/GRUB-Theme-Selector.git
+$ cd grub-theme-selector
 $ sudo ./install.sh
 ```
 
